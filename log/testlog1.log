@@ -1,0 +1,5 @@
+2020-04-18 17:08:07,695 [main] INFO HybridFramework - URL is opened
+2020-04-18 17:08:07,913 [main] INFO HybridFramework - Entered email
+2020-04-18 17:08:07,993 [main] INFO HybridFramework - Entered password
+2020-04-18 17:08:48,772 [main] INFO HybridFramework - Clicked login button
+2020-04-18 17:08:48,783 [main] INFO HybridFramework - Login test passed
